@@ -1,0 +1,11 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1728974214
+<< checkpaint >>
+rect -1260 -1260 2051 2766
+use inv  x1
+timestamp 1728974213
+transform 1 0 53 0 1 1306
+box -53 -1306 738 200
+<< end >>
